@@ -1,0 +1,5 @@
+out/
+.idea/
+*.iml
+aula01.iml
+*.DS_Store
